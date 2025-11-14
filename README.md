@@ -2,6 +2,8 @@
 
 Eu sou o Lucas Nunes.
 
+<img align='center' src="https://github.com/lucasnunesbueno-creator/lucasnunesbueno-creator/blob/main/octocat-1763127456003.png" width="215">
+
 ## :point_right: Para me encontrar:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ln3.ts/)
